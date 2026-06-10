@@ -18,7 +18,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT does NOT ho
 
 ## 🔓 Why DadGPT > WormGPT
 
-| Feature | WormGPT | DadGPT |
+| Feature | WormGPT | DadGPT 
 |---------|---------|--------|
 | **Unrestricted AI** | ⚠️ Limited | ✅ Fully Unrestricted |
 | **No Filter** | ❌ Some filters | ✅ Zero Filters |
