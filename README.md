@@ -61,7 +61,7 @@ No signup required for basic access. No restrictions. No filters. Just pure unce
 ## ⭐ Why Star This Repo?
 
 - ⭐ Stay updated on the best **uncensored AI** tools
-- ⭐ Get notified when new **unrestricted AI** models drop
+- ⭐ Get notified when new **unrestricted AI** models dropp
 - ⭐ Support the **no censorship AI** movement
 - ⭐ Bookmark the ultimate **WormGPT alternative**
 
