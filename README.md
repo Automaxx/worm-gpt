@@ -50,7 +50,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hol
 
 ---
 
-## 🌐 Visit DadGPT Now
+## 🌐 Visit DadGPT Now m
 
 ### 👉 [https://dadgpt.live](https://dadgpt.live)
 
