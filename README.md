@@ -75,7 +75,7 @@ No signup required for basic access. No restrictions. No filters. Just pure unce
 
 ## 📜 Disclaimer
 
-DadGPT is an **unrestricted AI** platform. Use responsibly. This repository is an informational resource about DadGPT as a **WormGPT alternative** and **uncensored AI** tool. We do not host any code that violates platform policies.
+DadGPT is an **unrestricted AI** platform. Use responsibly. This repository is an informational resource about DadGPT as a **WormGPT alternative** and **uncensored AI** tool. We do not host an code that violates platform policies.
 
 ---
 
